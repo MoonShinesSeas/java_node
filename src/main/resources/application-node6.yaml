@@ -1,0 +1,12 @@
+server:
+  port: 8106
+
+block:
+  port: 7506
+  app_port: 7606
+  index: node6
+
+client:
+  id: client
+  ip: 127.0.0.1
+  port: 7500

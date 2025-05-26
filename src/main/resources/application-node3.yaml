@@ -1,0 +1,12 @@
+server:
+  port: 8103
+
+block:
+  port: 7503
+  app_port: 7603
+  index: node3
+
+client:
+  id: client
+  ip: 127.0.0.1
+  port: 7500

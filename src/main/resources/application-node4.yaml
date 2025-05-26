@@ -1,0 +1,12 @@
+server:
+  port: 8104
+
+block:
+  port: 7504
+  app_port: 7604
+  index: node4
+
+client:
+  id: client
+  ip: 127.0.0.1
+  port: 7500

@@ -1,0 +1,12 @@
+server:
+  port: 8108
+
+block:
+  port: 7508
+  app_port: 7608
+  index: node8
+
+client:
+  id: client
+  ip: 127.0.0.1
+  port: 7500
