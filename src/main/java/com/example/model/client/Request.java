@@ -1,6 +1,5 @@
 package com.example.model.client;
 
-import com.alibaba.fastjson.annotation.JSONField;
 import com.alibaba.fastjson.annotation.JSONType;
 import com.example.util.CryptoUtil;
 import lombok.Data;
